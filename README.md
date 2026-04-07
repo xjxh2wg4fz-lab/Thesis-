@@ -125,7 +125,7 @@ The best model is selected and evaluated using a confusion matrix.
 
 
 
-##workflow (storytelling)
+##Workflow (Storytelling)
 
 The workflow of the project follows a structured pipeline:
 
@@ -156,7 +156,7 @@ The workflow of the project follows a structured pipeline:
   
 
 
-##keyfindings
+##KeyFindings
 
 * Structural response features can effectively represent damage severity
 * The problem exhibits **non-linear behavior**, making SVM models highly effective
@@ -165,7 +165,7 @@ The workflow of the project follows a structured pipeline:
 * Cross-validation results confirm model stability and generalization
 
 
-##notes
+##NOTES
 
 This repository represents an ongoing effort to combine structural mechanics with machine learning techniques.
 
