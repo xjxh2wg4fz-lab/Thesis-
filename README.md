@@ -31,26 +31,25 @@ Further improvements are planned in:
 ##Repository Structure
 
 Thesis/
-│
-├── src/ (SRS)
-│   ├── run_frame_case.m
-│   ├── dataset_column_1.m
-│   ├── ml_model.m
-│   └── ml_model_comparison.m
-│
-├── data/
-│   └── dataset_master.csv
-│
-├── results/
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-│   ├── data_distribution.png
-│   ├── best_model_confusion.png
-│   ├── model_accuracy.png
-│   └── cross_validation.png
-│
-└── README.md
-
+|
+|--src/
+|    |--- run_frame_case.m 
+|    |--- dataset_column_1.m 
+|    |--- ml_model.m 
+|    |--- ml_model_comparison.m
+|
+|---data/ 
+|    |---dataset_master.csv 
+|
+|---results\
+|   |--- confusion_matrix.png
+|   |--- feature_importance.png
+|   |--- data_distribution.png
+|   |--- best_model_confusion.png
+|   |--- model_accuracy.png
+|   |--- cross_validation.png
+|   
+|--- README.md
 
 
 ##Code Description (src folder)
